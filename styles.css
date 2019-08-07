@@ -34,7 +34,7 @@ h4 {
 }
 
 .wrapper {
-    max-width: 1280px;
+    max-width: 2600px;
     margin: 0 auto;
     width: 90%;
 }
@@ -192,6 +192,7 @@ img {
 .left-photo {
     width: 50%;
     float: right;
+    display: block;
 }
 
 /* CARD SECTION STYLING */
@@ -264,7 +265,7 @@ footer {
     
     .top-section {
         background-size: 80%;
-        height: 80vh;
+        height: 500px;
     }
     
     .heading {
